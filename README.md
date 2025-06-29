@@ -1,16 +1,13 @@
-## Hi there 👋
+🌸 Hii there!!! I'm Ishika 💕  
 
-<!--
-**ish6452/ish6452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech (CSE) @ Siksha ‘O’ Anusandhan (SOA) 
+💡 Interests: Web Development,java ,AI/Ml, Linux (Ubuntu), Communication Skills & Aesthetic UI Design 🎨  
+🌱 Currently learning: JavaScript, React, Linux, and all things creative ✨  
+🔭 Working on: Personal Projects & Skill-building Challenges 👩‍💻💫  
+💻 I enjoy working with: HTML, CSS, JS, React & love exploring new tech tools 💗  
+👯‍♀️ Always excited to collaborate on beginner-friendly tech or creative projects! 🤝💡  
+💬 Ask me about: Ubuntu Linux 🐧, Clean UI Design, or just chat about tech life ☕  
+📫 Reach me at: prasadishika1@gmail.com 💌  
+🎶 Fun fact: I code with coffee, candles, and craft vibes around me 🧸✨
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🌷 “Be kind, stay curious, and keep building.”
